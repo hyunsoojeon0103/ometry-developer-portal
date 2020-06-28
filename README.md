@@ -1,1 +1,1 @@
-# ometry-developer-portal
+# Ometry Endpoints Developer Portal
