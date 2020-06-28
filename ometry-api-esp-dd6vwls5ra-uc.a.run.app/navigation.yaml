@@ -1,6 +1,6 @@
 ordering:
   - Introduction
-  - Ometry Guides
+  - Guides
   - API Reference
   - Resources
 
@@ -8,4 +8,4 @@ folders:
   Guides:
     ordering:
       - Getting Started
-      #- API Services
+      - API Services
