@@ -1,10 +1,10 @@
 ordering:
-  - Introduction
-  - Guides
-  - API Reference
-  - Resources
+  - Ometry Portal
+  - Ometry Guides
+  - Ometry API Reference
+  - Ometry Resources
 
 folders:
-  Guides:
+  Ometry Guides:
     ordering:
       - Getting Started
