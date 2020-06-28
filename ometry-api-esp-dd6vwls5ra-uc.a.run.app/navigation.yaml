@@ -5,6 +5,7 @@ ordering:
   - Resources
 
 folders:
-  Ometry Guides:
+  Guides:
     ordering:
       - Getting Started
+      - API Services
