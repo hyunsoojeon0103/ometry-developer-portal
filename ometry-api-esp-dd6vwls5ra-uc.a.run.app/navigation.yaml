@@ -7,5 +7,4 @@ ordering:
 folders:
   Guides:
     ordering:
-      - Getting Started
       - API Services
