@@ -4,14 +4,14 @@
 
 ### Sub-header
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-  1.  Sed ultrices convallis leo, id ullamcorper orci cursus nec. Integer semper risus non arcu aliquam, at iaculis lorem scelerisque. 
-- Vivamus viverra imperdiet sem, sit amet aliquam nunc porttitor a. Nunc 
-  2.  consequat urna eget leo consectetur, vestibulum eleifend odio ultricies. 
-  3.  Pellentesque neque diam, viverra malesuada consequat id, dictum id nisi. 
+  1. Sed ultrices convallis leo, id ullamcorper orci cursus nec. Integer semper risus non arcu aliquam, at iaculis lorem scelerisque. 
+- Vivamus viverra imperdiet sem, sit amet aliquam nunc porttitor. 
+  2. Consequat urna eget leo consectetur, vestibulum eleifend odio ultricies. 
+  3. Pellentesque neque diam, viverra malesuada consequat id, dictum id nisi. 
 - Duis semper mi nec dui sodales, nec commodo urna gravida. Vestibulum tempor, odio sed tincidunt eleifend, ante lacus maximus nisl, in posuere augue ligula in tortor. 
-  1.  Etiam sed diam ipsum. Quisque ante nunc, rhoncus id auctor semper, placerat ac mi. 
+  1. Etiam sed diam ipsum. Quisque ante nunc, rhoncus id auctor semper, placerat ac mi. 
 - Curabitur eget sem ligula. 
-  2.  Maecenas porta velit a orci viverra tincidunt.
+  2. Maecenas porta velit a orci viverra tincidunt.
 
 ### Sub header
 - [x] Pellentesque quis tempus dolor, consequat posuere tortor. 
